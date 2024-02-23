@@ -1,7 +1,7 @@
-# Flipper Zero ESP32 Marauder board Hardware File
+# Flipper Zero ESP32 Marauder&NRF24&CC1101 3 IN 1 board
 [English Version](readme.md)
 
-##  Flipper Zero ESP32 Marauder board  硬件设计文件
+##  Flipper Zero ESP32 Marauder&NRF24&CC1101 3 IN 1 board  硬件设计文件
 
 ## 内容:
 * GERBER
