@@ -12,7 +12,7 @@
 
 ## License:
 
-* The design adopts the GPL open-source hardware license agreement v3.0- license. Please refer to the LICENSE file for details.
+* The designs are licensed under the CERN Open Hardware Licence v1.2 - Permissive. See the LICENSE file for details.
 
 
 
