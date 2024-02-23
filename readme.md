@@ -1,4 +1,4 @@
-#Flipper Zero ESP32 Marauder Board Hardware File
+# Flipper Zero ESP32 Marauder Board Hardware File
 [中文版本](readme_cn.md)
 
 ## Hardware design files for TSGP Studio's Flipper Zero ESP32 Marauder Board
