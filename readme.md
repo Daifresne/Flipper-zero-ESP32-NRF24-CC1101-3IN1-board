@@ -4,7 +4,7 @@
 ## Hardware design files for TSGP Studio's Flipper Zero ESP32 Marauder&NRF24&CC1101 3 IN 1 board
 
 ## Contents:
-* /PCB - PCB design files anc schematic
+* /PCB - PCB gerber files
 
 * /Mechnical - Mechanical design files
 
