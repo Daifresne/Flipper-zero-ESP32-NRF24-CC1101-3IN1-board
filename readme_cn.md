@@ -4,8 +4,9 @@
 ##  Flipper Zero ESP32 Marauder&NRF24&CC1101 3 IN 1 board  硬件设计文件
 
 ## 内容:
-* GERBER
-* BOM
+* /PCB - PCB gerber文件
+
+* /Mechnical - 机械设计文件(后续验证后开源）
 
 
 
