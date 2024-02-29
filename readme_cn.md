@@ -1,3 +1,5 @@
+# 该版本pcb尚未验证
+
 # Flipper Zero ESP32 Marauder&NRF24&CC1101 3 IN 1 board
 [English Version](readme.md)
 
