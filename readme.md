@@ -6,9 +6,6 @@
 ## Contents:
 * /PCB - PCB gerber files
 
-* /Mechnical - Mechanical design files
-
-
 
 ## License:
 
