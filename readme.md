@@ -1,5 +1,3 @@
-# was verified
-
 # Flipper Zero ESP32 Marauder&NRF24&CC1101 3 IN 1 board
 [中文版本](readme_cn.md)
 
